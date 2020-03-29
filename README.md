@@ -1,6 +1,6 @@
 # ReduxSimpleStarter
 
-Interested in learning [Redux](https://www.udemy.com/react-redux/)?
+Reference to udemy course [Redux](https://www.udemy.com/react-redux/)?
 
 
 ```
